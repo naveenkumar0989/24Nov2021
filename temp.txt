@@ -1,1 +1,1 @@
-This is temp file.This is temporary file.
+This is temp file.This is temporary file.Used to practise git commands
